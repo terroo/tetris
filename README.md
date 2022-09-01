@@ -22,4 +22,4 @@ make
 
 ---
 
-Game made in the video tutorial: <https://terminalroot.com.br/>
+Game made in the video tutorial: <https://www.youtube.com/watch?v=TRzFKQw-uX4>
